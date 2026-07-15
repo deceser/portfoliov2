@@ -13,8 +13,6 @@ import Mongo from '../../Assets/TechIcons/Mongo.svg';
 import SQL from '../../Assets/TechIcons/SQL.svg';
 import Firebase from '../../Assets/TechIcons/Firebase.svg';
 import Redux from '../../Assets/TechIcons/Redux.svg';
-import Postman from '../../Assets/TechIcons/Postman.svg';
-import Git from '../../Assets/TechIcons/Git.svg';
 import Python from '../../Assets/TechIcons/Python.svg';
 
 function Techstack() {

@@ -1,11 +1,8 @@
 import React from 'react';
 import { Col, Row } from 'react-bootstrap';
 import { SiOpenai } from 'react-icons/si';
-import { VscCopilot } from 'react-icons/vsc';
 import macOs from '../../Assets/TechIcons/Apple MacOSX.svg';
 import chrome from '../../Assets/TechIcons/Google Chrome.svg';
-import vsCode from '../../Assets/TechIcons/vscode.svg';
-import intelliJ from '../../Assets/TechIcons/intellij-idea.svg';
 import Postman from '../../Assets/TechIcons/Postman.svg';
 import Git from '../../Assets/TechIcons/Git.svg';
 import cursor from '../../Assets/TechIcons/Cursor.svg';
